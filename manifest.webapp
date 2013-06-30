@@ -1,0 +1,22 @@
+{
+  "name": "Kagura",
+  "description": "Kagura base app",
+  "launch_path": "/",
+  "icons": {
+    "60": "components/local/img/icon-60x60.png"
+  },
+  "developer": {
+    "name": "Adnan Asani",
+    "url": "test.local"
+  },
+  "default_locale": "en",
+  "fullscreen" : "true",
+  "locales" : {
+    "sv" : {
+      "description" : "En enkel app",
+      "developer" : {
+        "url" : "test.lcoal"
+      }
+    }
+  }
+}
